@@ -95,8 +95,7 @@ F H <BR>
 
 <h3>Sample Output</h3>
 
-![OUT](Op1-ai2.png)
-
+![Op1-ai2](https://github.com/user-attachments/assets/25cfe855-fba0-4014-bdb7-89d42dac4a9b)
 
 <h3>Sample Input</h3>
 
@@ -110,7 +109,7 @@ F H <BR>
 <h3>Sample Output</h3>
 
 
-![OUT](Op2-ai2.png)
+![Op2-ai2](https://github.com/user-attachments/assets/f26ea526-384a-4ee2-afc1-00a402c93bd8)
 
 
 <h3>Result:</h3>
